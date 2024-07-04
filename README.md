@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to my project page for [Game Title]. [Game Title] is a [game genre] creatively assembled using Unity assets. The game features [brief description of main character and objective].
+Welcome to my project page for B-BALL. B-BALL is a Basketball Shooting Game creatively assembled using Unity assets. The game features [brief description of main character and objective].
 
 ## Detailed Description
 
