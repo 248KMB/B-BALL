@@ -1,5 +1,5 @@
 
-# Project B-BALL
+# Project B-BALL {IN PROGRESS}
 
 ## Introduction
 
@@ -14,14 +14,6 @@ Our project is inspired by popular video games like [inspirational games]. We ai
 - **Objective 1:** [Describe Objective 1]
 - **Objective 2:** [Describe Objective 2]
 - **Objective 3:** [Describe Objective 3]
-
-## Role and Contributions
-
-I served as the [your roles] in this project. My primary responsibilities included:
-
-- **Task 1:** [Describe Task 1]
-- **Task 2:** [Describe Task 2]
-- **Task 3:** [Describe Task 3]
 
 ## Key Features
 
